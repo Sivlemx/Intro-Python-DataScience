@@ -1,4 +1,4 @@
-![PsyPy](/Users/javier/Documents/GitHub/Intro-Python-DataScience/Python Course.png)
+![PsyPy](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/Python%20Course.png)
 
 # Python para Psicólogos
 ## Javier Villanueva-Valle
