@@ -1,4 +1,4 @@
-![PsyPy](/Users/javier/Documents/GitHub/Intro-Python-DataScience/Python Course.png)
+![PsyPy](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/Python%20Course.png)
 
 # Python para Psicólogos
 ## Javier Villanueva-Valle
@@ -58,5 +58,5 @@ conda list
 ### Módulo V: Operadores de Comparación
 - Operadores: ==, !=, >, <, >=, <=
 
-#### Pensamiento interno hasta este momento
+#### Sensación interna hasta este momento
 ![](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/invincible.gif)
