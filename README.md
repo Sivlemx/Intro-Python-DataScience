@@ -58,5 +58,5 @@ conda list
 ### Módulo V: Operadores de Comparación
 - Operadores: ==, !=, >, <, >=, <=
 
-#### Sensación interna hasta este momento
+#### Sensación interna después del quinto módulo
 ![](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/invincible.gif)
