@@ -60,3 +60,5 @@ conda list
 
 #### Sensación interna después del quinto módulo
 ![](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/invincible.gif)
+
+### Módulo IV: El Todo-Poderoso "FOR", El Simultáneo "WHILE" y El Capataz "IF"
