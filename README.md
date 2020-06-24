@@ -62,7 +62,7 @@ conda list
 #### Sensación interna después del quinto módulo
 ![](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/invincible.gif)
 
-### Módulo IV: 
+### Módulo VI: 
 #### El Todo-Poderoso "FOR"
 ![](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/py1m2_loops.gif)
 #### El Simultáneo "WHILE" 
