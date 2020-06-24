@@ -12,6 +12,9 @@
 * [**Python**](https://www.python.org/) Version 3.x 
 * [Anaconda](https://www.anaconda.com/products/individual)
 
+Para leer este documento con extensión *.md, te recomiendo usar
+[**MacDown** para OS](https://macdown.uranusjr.com/), [**Typora** para Windows](https://typora.io/#windows) o [**Remarkable** para Linux y Windows](https://remarkableapp.github.io/linux.html)
+
 ### Módulo I: Uso de Anaconda - Instalación
 * [Documentación en línea](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
 * [Uso del Navegador](https://docs.anaconda.com/anaconda/navigator/getting-started/)
@@ -48,9 +51,7 @@ conda list
 - Operación aritmética de variables 
 
 ### Módulo IV: Contenedores 
-- Listas
-- Tuplas
-- Diccionarios
+- Listas, Tuplas, Diccionarios
 	- Selecionar elementos de los contenedores
 	- Lo asombroso de los métodos "capitalize, count, find, isalnum, isalpha, isdigit, islower, isupper, join, split, len, lower, upper, strip" 
 	- Operaciones aritméticas de los contenedores
@@ -61,4 +62,10 @@ conda list
 #### Sensación interna después del quinto módulo
 ![](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/invincible.gif)
 
-### Módulo IV: El Todo-Poderoso "FOR", El Simultáneo "WHILE" y El Capataz "IF"
+### Módulo IV: 
+#### El Todo-Poderoso "FOR"
+![](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/py1m2_loops.gif)
+#### El Simultáneo "WHILE" 
+![](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/while-loop-animation-python.gif)
+#### El Capataz "IF"
+![](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/while-loop-modulo-even-numbers-python-animation.gif)
