@@ -1,6 +1,6 @@
 ![PsyPy](https://github.com/Sivlemx/Intro-Python-DataScience/raw/master/Python%20Course.png)
 
-# Python para Psicólogos
+# Python para los no-Programadores
 ## Javier Villanueva-Valle
 <javier830409@gmail.com>
 
